@@ -27,6 +27,12 @@ new adventures. I would appreciate the opportunity to tell you more about myself
 how my skill for building collaborative relationships and being a positive influence
 can help your company.
 
+# Style
+
+
+# Style 2
+
+
 Style Guide
 -----------
 
