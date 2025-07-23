@@ -2,8 +2,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Benjamin D Moore Portfolio'
-author = 'Benjamin D Moore'
+project = 'Vikram Srinivasan - Portfolio'
+author = 'Vikram Srinivasan'
 release = '0.1'
 
 # -- General configuration ---------------------------------------------------
@@ -33,7 +33,7 @@ exclude_patterns = []
 # e.g., latex_documents = [(master_doc, 'projectname.tex', 'Project Name Documentation', 'Author Name', 'manual')]
 
 # The master toctree document.
-#master_doc = 'main/title_main'
+master_doc = 'main/title_main'
 master_doc = 'index'
 
 # -- Options for HTML output -------------------------------------------------
